@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jenishgajera1002
 - 👀 I’m interested in driving
-- 🌱 I’m currently learning ReacrJs
+- 🌱 I’m currently learning ReactJs
 - 📫 How to reach me by car...
 
 <!---
